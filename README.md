@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Всплывающее информационное сообщение напротив определённого слова. Расшифровка аббревиатур.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_Tooltip`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,12 +11,12 @@
 wfLoadExtension( 'MW_EXT_Tooltip' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 {{#tooltip: [WORD]|[TOOLTIP]}}
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
